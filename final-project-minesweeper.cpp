@@ -1,3 +1,17 @@
+/**
+*
+* Solution to course project # 5
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2023/2024
+*
+* @author Radina Kazakova
+* @idnumber 0MI0600282
+* @compiler VC
+*
+* <game file>
+*
+*/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

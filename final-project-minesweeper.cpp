@@ -310,13 +310,13 @@ void playGame(const int dimention) //Start the game - create 2 boards, place the
 		{
 			cout << "Congratulations! You won!" << endl;
 			printBoard(hiddenBoard, dimention);
-			return;
+			break;
 		}
 		else if (isLost == true)
 		{
 			cout << "GAME OVER! You opened a mine." << endl;
 			printBoard(hiddenBoard, dimention);
-			return;
+			break;
 		}
 	}
 
